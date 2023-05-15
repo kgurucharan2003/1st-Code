@@ -1,2 +1,7 @@
 # 1st-Code
-Hellow World
+#include<stdio.h>
+int main()
+{
+printf("Hellow World");
+return 0;
+}
